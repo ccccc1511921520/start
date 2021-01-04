@@ -1,0 +1,3 @@
+ publlc static void void mian{
+    system.out.print("hello world");
+ }
